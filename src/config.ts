@@ -1,10 +1,10 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://astro-paper.pages.dev/",
-  author: "Sat Naing",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "AstroPaper",
+  website: "https://andreamiens.github.io",
+  author: "Andréa Miens based on Sat Naing's model",
+  desc: "My blog for my master VAR in Institut Polytechnique de Paris ! You will see all my projects and how to do it by yourself!",
+  title: "Andréa's blog",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
@@ -22,13 +22,13 @@ export const LOGO_IMAGE = {
 export const SOCIALS: SocialObjects = [
   {
     name: "Github",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://github.com/andreamiens?tab=repositories",
     linkTitle: ` ${SITE.title} on Github`,
     active: true,
   },
   {
     name: "Facebook",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://www.facebook.com/profile.php?id=100010287949243",
     linkTitle: `${SITE.title} on Facebook`,
     active: true,
   },
@@ -36,11 +36,11 @@ export const SOCIALS: SocialObjects = [
     name: "Instagram",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on Instagram`,
-    active: true,
+    active: false,
   },
   {
     name: "LinkedIn",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://www.linkedin.com/in/andréa-miens-7abb88292/",
     linkTitle: `${SITE.title} on LinkedIn`,
     active: true,
   },
