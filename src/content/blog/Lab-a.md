@@ -11,8 +11,6 @@ tags:
 ogImage: ""
 description: 
   This is the tutorial of the deployment of this website on github.io and some usual errors you can have or make.
-canonicalURL: 
-  https://andreamiens.github.io/creation-of-the-website
 ---
 
 My experience about developing my first portfolio website and a blog using NextJS and a headless CMS.
