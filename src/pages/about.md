@@ -1,12 +1,11 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: "About this blog"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+Hi! I am Andréa Miens. I am an engineering student of the master Virtual Augmentated Reality (VAR) of the Institut Polytechnique de Paris and a third year in the Grande Ecole Télécom SudParis in Evry. I decided to specialize me in High Tech Imaging. 
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+In this blog, you will see my different projects of HTI and VAR but also tools I used to make it   
 
 This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
 
