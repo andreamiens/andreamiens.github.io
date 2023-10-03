@@ -1,13 +1,13 @@
 ---
-author: Sat Naing
-pubDatetime: 2023-01-30T15:57:52.737Z
-title: AstroPaper 2.0
-postSlug: astro-paper-2
+author: Andréa Miens
+pubDatetime: 2023-10-03T15:57:52.737Z
+title: Homework 1 - Affordance, Getstalt Law and Darkscheme
+postSlug: lecture-1-2-3
 featured: true
-ogImage: https://user-images.githubusercontent.com/53733092/215771435-25408246-2309-4f8b-a781-1f3d93bdf0ec.png
+ogImage:
 tags:
-  - release
-description: AstroPaper with the enhancements of Astro v2. Type-safe markdown contents, bug fixes and better dev experience etc.
+  - lecture
+description: Affordance, Getstalt Law and Darkscheme around me
 ---
 
 Astro 2.0 has been released with some cool features, breaking changes, DX improvements, better error overlay and so on. AstroPaper takes advantage of those cool features, especially Content Collections API.
@@ -17,6 +17,22 @@ Astro 2.0 has been released with some cool features, breaking changes, DX improv
 ![Introducing AstroPaper 2.0](https://user-images.githubusercontent.com/53733092/215771435-25408246-2309-4f8b-a781-1f3d93bdf0ec.png)
 
 ## Table of contents
+
+## A quick reminder of the concepts
+
+>"An affordance is a relationship between the properties of an object and the capabilities of the agent that determine just how the object could possibly be used." 
+- Don Norman
+
+Definition : Affordance is the characteristic of an object or environment that suggests to its user its mode of use or other practice. In other words, the way in which the object suggests its use. The term originated in psychology, and is used in ergonomics by way of a glossary of meanings.
+
+## An exemple of a good affordance
+
+Here's a good example of affordance, this push button. I see this push button on a regular basis. It's located on the doors of public transport trains. What's good about it? First of all, it's well located because it's on the object it sets in motion, i.e. the door. What's more, the luminous green circle highlights the pressable part of the button. So the user knows directly where to press to set the door in motion. The button also provides additional information on door movement. The arrows engraved on it show the user how the doors will move. The fact that the arrows are not just drawn, but embossed, means that they can also be used by blind people. A simple but well thought-out button! 
+
+## An exemple of a terrible affordance 
+
+What's wrong with this cute little lamp? Can't you see? Well, that's normal! This lamp is activated by touch, but there's nothing to indicate it! You immediately want to look for the activation button you'd normally find. The fact of touching the lamp is in no way communicated by the object, so by definition it's a poor affordance of the object. To improve affordance, we could simply engrave a small light bulb to make people want to touch it and activate the lamp.
+
 
 ## Features & Changes
 
